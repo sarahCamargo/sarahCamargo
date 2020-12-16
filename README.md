@@ -7,5 +7,3 @@
 - 🎓 I graduated in a Technical High School as a Computer Technician
 - 💻 I’m learning Java and Javascript languages and I'm mostly interested in Back-End 
 - 📌 You can find me on Linkedin: https://www.linkedin.com/in/sarah-carolina-camargo/
-- 😊 Pronouns: she/her | he/him
-
