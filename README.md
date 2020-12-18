@@ -1,4 +1,4 @@
-### Hey there! Welcome to my profile ✨
+###                                                   Hey there! Welcome to my profile ✨
 
 <!--
 **sarahCamargo/sarahCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -8,3 +8,5 @@
 - 👩‍💻 I'm working as Entry Level Developer at Philips Clinical Informatics - Blumenau/SC
 - 💻 I’m learning Java and Javascript languages and I'm mostly interested in Back-End 
 - 📌 You can find me on Linkedin: https://www.linkedin.com/in/sarah-carolina-camargo/
+
+ <a href='https://www.linkedin.com/in/sarah-carolina-camargo/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
