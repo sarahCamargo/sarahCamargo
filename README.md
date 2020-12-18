@@ -2,7 +2,7 @@
 
 <!--
 **sarahCamargo/sarahCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<p align="center>">
+<p align="center">
 - 📕 I’m currently studying Analysis and Development of Systems at Instituto Federal de Santa Catarina<br />
 - 🎓 I graduated in a Technical High School as a Computer Technician<br />
 - 👩‍💻 I'm working as Entry Level Developer at Philips Clinical Informatics - Blumenau/SC<br />
