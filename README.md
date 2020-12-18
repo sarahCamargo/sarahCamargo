@@ -11,6 +11,8 @@
 
 <a href='https://www.linkedin.com/in/sarah-carolina-camargo/' target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href='https://www.instagram.com/sarah.ccamargo/' target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="https://github.com/sarahCamargo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahCamargo&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/sarahCamargo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahCamargo&layout=compact" />
+  </a>
+</p>
