@@ -3,13 +3,11 @@
 <!--
 **sarahCamargo/sarahCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p align="center>">
-  <ul>
-    <li>📕 I’m currently studying Analysis and Development of Systems at Instituto Federal de Santa Catarina</li>
-    <li>🎓 I graduated in a Technical High School as a Computer Technician</li>
-    <li>👩‍💻 I'm working as Entry Level Developer at Philips Clinical Informatics - Blumenau/SC</li>
-    <li>💻 I’m learning Java and Javascript languages and I'm mostly interested in Back-End</li>
-    <li>📌 You can find me on:</li>
-  </ul>
+- 📕 I’m currently studying Analysis and Development of Systems at Instituto Federal de Santa Catarina<br />
+- 🎓 I graduated in a Technical High School as a Computer Technician<br />
+- 👩‍💻 I'm working as Entry Level Developer at Philips Clinical Informatics - Blumenau/SC<br />
+- 💻 I’m learning Java and Javascript languages and I'm mostly interested in Back-End<br />
+- 📌 You can find me on:<br />
 </p>
 <p align="center">
   <a href='https://www.linkedin.com/in/sarah-carolina-camargo/' target="_blank">
