@@ -1,4 +1,4 @@
-###                                                   Hey there! Welcome to my profile ✨
+### <p align="center">Hey there! Welcome to my profile ✨</p>
 
 <!--
 **sarahCamargo/sarahCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
