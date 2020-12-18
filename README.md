@@ -9,6 +9,5 @@
 - 💻 I’m learning Java and Javascript languages and I'm mostly interested in Back-End 
 - 📌 You can find me on:
 
-  <a href='https://www.linkedin.com/in/sarah-carolina-camargo/'><div style="text-align:center;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></div></a>
-  <a href='https://www.instagram.com/sarah.ccamargo/'><div style="text-align:center;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
+<div style="text-align:center;"><a href='https://www.linkedin.com/in/sarah-carolina-camargo/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href='https://www.instagram.com/sarah.ccamargo/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
 
