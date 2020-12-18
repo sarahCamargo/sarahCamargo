@@ -7,7 +7,10 @@
 - 🎓 I graduated in a Technical High School as a Computer Technician
 - 👩‍💻 I'm working as Entry Level Developer at Philips Clinical Informatics - Blumenau/SC
 - 💻 I’m learning Java and Javascript languages and I'm mostly interested in Back-End 
-- 📌 You can find me on Linkedin:
+- 📌 You can find me on:
 
-<p style="text-align:center;"><a href='https://www.linkedin.com/in/sarah-carolina-camargo/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href='https://www.instagram.com/sarah.ccamargo/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></p>
+<div style="text-align:center;">
+  <a href='https://www.linkedin.com/in/sarah-carolina-camargo/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href='https://www.instagram.com/sarah.ccamargo/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</div>
 
