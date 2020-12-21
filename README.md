@@ -15,8 +15,6 @@
 </a>
 
 #### My Coding Languages
-<p align="center">
-  <a href="https://github.com/sarahCamargo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahCamargo&layout=compact" />
-  </a>
-</p>
+<a href="https://github.com/sarahCamargo/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahCamargo&layout=compact" />
+</a>
