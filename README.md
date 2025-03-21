@@ -16,5 +16,3 @@
 ## Skills
 
 [![Skills](https://skillicons.dev/icons?i=java,react,ts,git,js,spring,flutter,postgres,rabbitmq)](https://skillicons.dev)
-
-![](https://komarev.com/ghpvc/?username=sarahCamargo&color=c634eb&style=for-the-badge)
