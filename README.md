@@ -1,20 +1,20 @@
-### Hey there! Welcome to my profile ✨
+### Hello, I'm Sarah Camargo, Full Stack Web Developer! :sparkles:
 
-<!--
-**sarahCamargo/sarahCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 📕 I’m currently studying Analysis and Development of Systems at Instituto Federal de Santa Catarina<br />
-- 🎓 I graduated in a Technical High School as a Computer Technician<br />
-- 👩‍💻 I'm working as a Software Developer at EmiteAí - Blumenau/SC<br />
-- 💻 I’m studing Java, React, Flutter and Javascript/Typescript languages<br />
-- 📌 You can find me on:<br />
-<a href='https://www.linkedin.com/in/sarah-carolina-camargo/' target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href='mailto:sarahcamargo00@gmail.com' target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- :mortar_board: I’m studying Analysis and Development of Systems at Instituto Federal de Santa Catarina
+- :woman_technologist: I'm working as a Full Stack Software Developer at [EmiteAí](https://emiteai.com.br/)
 
-#### My Coding Languages
-<a href="https://github.com/sarahCamargo/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahCamargo&layout=compact" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-carolina-camargo/)](https://www.linkedin.com/in/sarah-carolina-camargo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sarahcamargo00@gmail.com)](mailto:sarahcamargo00@gmail.com)
+
+<div align="center">
+  <a href="https://github.com/sarahCamargo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahCamargo&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahCamargo&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+## Skills
+
+[![Skills](https://skillicons.dev/icons?i=java,react,ts,git,js,spring,flutter,postgres,rabbitmq)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=sarahCamargo&color=c634eb&style=for-the-badge)
